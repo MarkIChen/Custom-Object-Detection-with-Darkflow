@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>download_11.jpg</filename>
+	<path>/Users/mark/Desktop/train/download_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Winnie</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>2</ymin>
+			<xmax>183</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

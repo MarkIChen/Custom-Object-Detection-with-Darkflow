@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images_16x.jpeg</filename>
+	<path>/Users/mark/Desktop/train/images_16x.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>170</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Winnie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>126</ymin>
+			<xmax>116</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>walt_disney_archives_winnie_the_pooh_exhibit_in_japan_feat_3.jpg</filename>
+	<path>/Users/mark/Desktop/train/walt_disney_archives_winnie_the_pooh_exhibit_in_japan_feat_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>536</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Winnie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>170</ymin>
+			<xmax>290</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>
